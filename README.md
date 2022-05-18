@@ -1,6 +1,11 @@
 # startup_namer
 
-A new Flutter project.
+Este proyecto de flutter se realizo siguiendo el video de @carlosazaustre
+
+Sin embargo separe el componente para crear palabras
+y separe las vista para mostras las palabras guardas
+
+- [Link del video](https://www.youtube.com/watch?v=w1HAwpsJBV8&t=493)
 
 ## Getting Started
 
